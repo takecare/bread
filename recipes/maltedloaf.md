@@ -89,4 +89,6 @@
 - Shape turned out pretty bad as the dough expanded too much the sides
 - Crumb was good: good distribution in size and separation
 
+<hr/>
+
 [Back](../README.md)
