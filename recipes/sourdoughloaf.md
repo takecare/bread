@@ -4,7 +4,7 @@ Based on Patrick Ryan's recipe.
 
 #### Ingredients
 
-|             |     |        |     |
+|             | g   | %      | g/2 |
 | ----------- | --- | ------ | --- |
 | Bread flour | 800 |        | 400 |
 | Water       | 460 | 0.575  | 320 |
@@ -26,12 +26,12 @@ Based on Patrick Ryan's recipe.
 
 #### Breakdown
 
-|                     |      |     |
-| ------------------- | ---- | --- |
-| Autolyse            | 1-2h |     |
-| Bulk fermentation   | 3h   |     |
-| Second fermentation | 3h   |     |
-| Total               | 7-8h |
+|                     | duration | temp (C) |
+| ------------------- | -------- | -------- |
+| Autolyse            | 1-2h     |          |
+| Bulk fermentation   | 3h       |          |
+| Second fermentation | 3h       |          |
+| Total               | 7-8h     |          |
 
 #### Sources
 

@@ -2,7 +2,7 @@
 
 #### Ingredients
 
-|              |     |       |
+|              | g   | %     |
 | ------------ | --- | ----- |
 | Bread flour  | 200 |       |
 | Malted flour | 200 |       |
@@ -42,7 +42,7 @@
 
 #### Log
 
-|              |     |        |
+|              | g   | %      |
 | ------------ | --- | ------ |
 | Bread flour  | 200 |        |
 | Malted flour | 200 |        |
@@ -50,12 +50,12 @@
 | Salt         | 6   | 0.015  |
 | Starter      | 155 | 0.3875 |
 
-|                     |     |        |
-| ------------------- | --- | ------ |
-| Autolyse            | 1h  | ~23°   |
-| Bulk fermentation   | 3h  | 29-33° |
-| Second fermentation | 2h  | 29-33° |
-| Total               | 6h  |        |
+|                     | duration | temp (C) |
+| ------------------- | -------- | -------- |
+| Autolyse            | 1h       | ~23°     |
+| Bulk fermentation   | 3h       | 29-33°   |
+| Second fermentation | 2h       | 29-33°   |
+| Total               | 6h       |          |
 
 - Autolyse 1h at room temp
 - Bulk fermentation in oven with light on
@@ -66,7 +66,7 @@
 
 <hr/>
 
-|              |     |        |
+|              | g   | %      |
 | ------------ | --- | ------ |
 | Spelt flour  | 100 |        |
 | Malted flour | 300 |        |
@@ -74,12 +74,12 @@
 | Salt         | 8   | 0.02   |
 | Starter      | 200 | 0.5    |
 
-|                     |     |      |
-| ------------------- | --- | ---- |
-| Autolyse            | 1h  | ~23° |
-| Bulk fermentation   | 4h  | 23°  |
-| Second fermentation | 2h  | ~20° |
-| Total               | 7h  |      |
+|                     | duration | temp (C) |
+| ------------------- | -------- | -------- |
+| Autolyse            | 1h       | ~23°     |
+| Bulk fermentation   | 4h       | 23°      |
+| Second fermentation | 2h       | ~20°     |
+| Total               | 7h       |          |
 
 - Over-fermented during bulk fermentation
 - Dough considerably hard to work with
