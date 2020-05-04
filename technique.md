@@ -56,11 +56,11 @@ not perfect, but it should help.
 
 _TODO_
 
-#### Proving
+##### Stretch & fold
 
 _TODO_
 
-##### Stretch & fold
+#### Proving
 
 _TODO_
 
