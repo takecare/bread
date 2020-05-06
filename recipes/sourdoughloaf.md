@@ -7,7 +7,7 @@ Based on Patrick Ryan's recipe.
 |             | g   | %      | g/2 |
 | ----------- | --- | ------ | --- |
 | Bread flour | 800 |        | 400 |
-| Water       | 460 | 0.575  | 320 |
+| Water       | 460 | 0.575  | 230 |
 | Salt        | 10  | 0.0125 | 5   |
 | Starter     | 320 | 0.4    | 160 |
 
