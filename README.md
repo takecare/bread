@@ -10,6 +10,7 @@
 ##### Sourdough loaves
 
 - [Sourdough loaf](recipes/sourdoughloaf.md)
+- [77% Sourdough loaf](recipes/fastsourdough.md)
 - [Malted loaf](recipes/maltedloaf.md)
 - [Multi-seeded loaf](recipes/multiseeded.md)
 - [Walnut & fig](recipes/walnutandfig.md)
