@@ -1,24 +1,39 @@
 ### Hardware
 
+This are the utensils I use for breadmaking. You can find'em (or similar items) easily online.
+
 #### Storage
 
-_TODO_
+The only thing I usually store in a specific container is flour. The ones I use aren't of particular good quality, so you can easily find something better. 
+
+###### Flour
+
+- IKEA Pruta containers
 
 #### Mixing
 
-_TODO_
+- OXO good grips medium spatula
+- Plastic dough scraper
 
 #### Proving
 
-_TODO_
+- Oval wicker basket
+- Oval cane banetton
+- Oval plastic basket
+
+#### Working the dough
+
+- Razor blades
+- Dough cutter
 
 #### Baking
 
-_TODO_
+- Pyrex casserole
+- Lodge cast iron dutch oven
 
 #### Keeping
 
-_TODO_
+- Beeswax wraps
 
 <hr/>
 
