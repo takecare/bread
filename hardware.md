@@ -4,7 +4,7 @@ This are the utensils I use for breadmaking. You can find'em (or similar items) 
 
 #### Storage
 
-The only thing I usually store in a specific container is flour. The ones I use aren't of particular good quality, so you can easily find something better. 
+The only thing I usually store in a specific container is flour. The ones I use aren't of particular good quality, so you can easily find something better.
 
 ###### Flour
 
