@@ -54,13 +54,30 @@ not perfect, but it should help.
 
 #### Kneading
 
+There's a multitude of ways through which you can knead your dough. The ultimate goal here is to 
+develop the gluten so your loaf turns out the just the right amount of chewey and your crumb airy.
+
+One of the most typical ways of kneading your dough consists of turning onto a clean worksurface, stretching/pushing it along the the surface and bringing it back together. Rather than a fixed amount of time, you should be looking for signs, on your dough, that it is properly needed and ready for its first proving.
+
+##### Slap & fold
+
 _TODO_
 
 ##### Stretch & fold
 
 _TODO_
 
+##### Lamination
+
+_TODO_
+
+##### Coil fold
+
+_TODO_
+
 #### Proving
+
+Proving, or proofing, consists mostly of doing nothing to your dough. You should, however, ensure this process occurs in the best conditions possible. This means your dough should be in a fairly warm place, unless you're fermenting it for longer periods - e.g. overnight - or with very small amounts of starter.
 
 _TODO_
 
@@ -68,7 +85,15 @@ _TODO_
 
 _TODO_
 
+##### Surface tension pull
+
+_TODO_
+
 #### Baking
+
+_TODO_
+
+##### Steam
 
 _TODO_
 
