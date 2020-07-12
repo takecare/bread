@@ -59,6 +59,12 @@ develop the gluten so your loaf turns out the just the right amount of chewey an
 
 One of the most typical ways of kneading your dough consists of turning onto a clean worksurface, stretching/pushing it along the the surface and bringing it back together. Rather than a fixed amount of time, you should be looking for signs, on your dough, that it is properly needed and ready for its first proving.
 
+##### When it's done
+
+You'll know you've done enough kneading when the dough reaches a state where it's smooth and supple. It should no longer stick to the working surface as it would when you started kneading. You can gently pull it off the surface without bits remaining stuck to it.
+
+A rather pragmatic way of determining if your dought is ready consists of doing the _window pane test_. Rub a small portion of olive oil on your hands. Cut a small portion of your dough and work it, with both hands, stretching on all sides. The dough shouldn't tear easily (or at all) while it remains somewhat transparent. This should show you good gluten development.
+
 ##### Slap & fold
 
 _TODO_
@@ -67,11 +73,11 @@ _TODO_
 
 _TODO_
 
-##### Lamination
+##### Coil fold
 
 _TODO_
 
-##### Coil fold
+##### Lamination
 
 _TODO_
 
