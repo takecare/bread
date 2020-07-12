@@ -87,9 +87,20 @@ Proving, or proofing, consists mostly of doing nothing to your dough. You should
 
 _TODO_
 
+##### When it's ready
+
+_TODO_
+
+- Roughly doubled in size
+- Dough has a nice, fairly slow bounce to it, when poked
+- It hasn't risen to the top and it's now deflating
+
 #### Shaping
 
 _TODO_
+
+- It's all about creating tension
+- Different techniques depending on the form/shape you're looking for
 
 ##### Surface tension pull
 
@@ -99,9 +110,17 @@ _TODO_
 
 _TODO_
 
+- Why steam?
+- Pyrex casserole
+- Cast iron dutch oven
+- Others (e.g pot, clay/terracotta, etc.)
+
 ##### Steam
 
 _TODO_
+
+- How to create steam (water in tray; rocks; spray)
+- Alternatives (dutch oven, etc.)
 
 <hr/>
 
