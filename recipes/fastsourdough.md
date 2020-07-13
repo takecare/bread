@@ -54,15 +54,17 @@ Based on Patrick Ryan's recipe.
 |                     | duration | temp (C) |
 | ------------------- | -------- | -------- |
 | Autolyse            | 1h30     |          |
-| Bulk fermentation   | 2h15     | 29-33°   |
-| Second fermentation | 2h       | ??°      |
+| Bulk fermentation   | 2h15     | 30-36°   |
+| Second fermentation | 1h30     | 8°       |
 | Total               | ?h       |          |
 
 - Autolyse ~1h30 at room temp
 - Bulk fermentation in oven with light on
 - Second fermentation in fridge
-- Baked at max temp (???°) for 25min in dutch oven + 20min at ~200° dutch oven top removed
-- Results: ???
+- Results: hard-to-shape dough, resulting in poor shape
+- Baked at max temp (~250°) for 15min in dutch oven + 25min at ~200° with dutch oven top removed
+- Results: crum was ok, with uneven distribution of air pockets
+- Results: loaf didn't hold its shape
 
 <hr/>
 
