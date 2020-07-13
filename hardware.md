@@ -17,7 +17,8 @@ The only thing I usually store in a specific container is flour. The ones I use 
 
 #### Proving
 
-- Oval wicker basket
+- Covermate reusable covers
+- Oval wicker basket (with linen)
 - Oval cane banetton
 - Oval plastic basket
 
