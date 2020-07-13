@@ -16,3 +16,8 @@
 - [Walnut & fig](recipes/walnutandfig.md)
 - [Bagels](recipes/bagels.md)
 - [Chocolate sourdough](recipes/chocolatesourdough.md)
+
+##### Others
+
+- [Crackers](recipes/crackers.md)
+- [Pancakes](recipes/pancakes.md)
