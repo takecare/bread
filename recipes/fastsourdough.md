@@ -37,7 +37,7 @@ Based on Patrick Ryan's recipe.
 |                     | duration | temp (C) |
 | ------------------- | -------- | -------- |
 | Autolyse            | 30m-1h   | room     |
-| Bulk fermentation   | 3h30     | 29       |
+| Bulk fermentation   | 3h30     | 29°      |
 | Second fermentation | 2h       | low*     |
 | Total               | 6-7h     |          |
 
@@ -59,7 +59,7 @@ Based on Patrick Ryan's recipe.
 | Total               | ?h       |          |
 
 - Autolyse ~1h30 at room temp
-- Bulk fermentation in oven with light on
+- Bulk fermentation in oven with light on (45min intervals)
 - Second fermentation in fridge
 - Results: hard-to-shape dough, resulting in poor shape
 - Baked at max temp (~250°) for 15min in dutch oven + 25min at ~200° with dutch oven top removed
