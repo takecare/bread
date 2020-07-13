@@ -1,6 +1,6 @@
 ### Sourdough loaf
 
-Based on Patrick Ryan's recipe.
+Based on JoyRideCoffee's recipe.
 
 #### Ingredients
 
@@ -15,7 +15,7 @@ Based on Patrick Ryan's recipe.
 #### Method
 
 1. Mix dry ingredients first
-1. Add water
+1. Add water (room temp)
 1. Cover and leave for 30m-1h
 1. Add starter in (see [technique](../technique.md))
 1. Slap and fold until ready (see [technique](../technique.md))
@@ -56,7 +56,7 @@ Based on Patrick Ryan's recipe.
 | Autolyse            | 1h30     |          |
 | Bulk fermentation   | 2h15     | 30-36°   |
 | Second fermentation | 1h30     | 8°       |
-| Total               | ?h       |          |
+| Total               | 5h15     |          |
 
 - Autolyse ~1h30 at room temp
 - Bulk fermentation in oven with light on (45min intervals)
