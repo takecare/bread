@@ -54,23 +54,73 @@ not perfect, but it should help.
 
 #### Kneading
 
+There's a multitude of ways through which you can knead your dough. The ultimate goal here is to 
+develop the gluten so your loaf turns out the just the right amount of chewey and your crumb airy.
+
+One of the most typical ways of kneading your dough consists of turning onto a clean worksurface, stretching/pushing it along the the surface and bringing it back together. Rather than a fixed amount of time, you should be looking for signs, on your dough, that it is properly needed and ready for its first proving.
+
+##### When it's done
+
+You'll know you've done enough kneading when the dough reaches a state where it's smooth and supple. It should no longer stick to the working surface as it would when you started kneading. You can gently pull it off the surface without bits remaining stuck to it.
+
+A rather pragmatic way of determining if your dought is ready consists of doing the _window pane test_. Rub a small portion of olive oil on your hands. Cut a small portion of your dough and work it, with both hands, stretching on all sides. The dough shouldn't tear easily (or at all) while it remains somewhat transparent. This should show you good gluten development.
+
+##### Slap & fold
+
 _TODO_
 
 ##### Stretch & fold
 
 _TODO_
 
-#### Proving
+##### Coil fold
 
 _TODO_
 
+##### Lamination
+
+_TODO_
+
+#### Proving
+
+Proving, or proofing, consists mostly of doing nothing to your dough. You should, however, ensure this process occurs in the best conditions possible. This means your dough should be in a fairly warm place, unless you're fermenting it for longer periods - e.g. overnight - or with very small amounts of starter.
+
+_TODO_
+
+##### When it's ready
+
+_TODO_
+
+- Roughly doubled in size
+- Dough has a nice, fairly slow bounce to it, when poked
+- It hasn't risen to the top and it's now deflating
+
 #### Shaping
+
+_TODO_
+
+- It's all about creating tension
+- Different techniques depending on the form/shape you're looking for
+
+##### Surface tension pull
 
 _TODO_
 
 #### Baking
 
 _TODO_
+
+- Why steam?
+- Pyrex casserole
+- Cast iron dutch oven
+- Others (e.g pot, clay/terracotta, etc.)
+
+##### Steam
+
+_TODO_
+
+- How to create steam (water in tray; rocks; spray)
+- Alternatives (dutch oven, etc.)
 
 <hr/>
 

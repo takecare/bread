@@ -62,7 +62,7 @@
 - Second fermentation in oven with light on
 - Chilled in fridge whilst oven warmed up, after second fermentation
 - Baked at max temp for 25min in dutch oven + 20min at ~200° dutch oven top removed
-- Expanded a bit to the sides (shaping wasn't good) but crumb was ok
+- Results: Expanded a bit to the sides (shaping wasn't good) but crumb was ok
 
 <hr/>
 
@@ -86,8 +86,8 @@
 - Unable to shape appropriately
 - Chilled in fridge whilst oven warmed up, after second fermentation
 - Baked at max temp for 25min in dutch oven + 20min at ~200° dutch oven top removed
-- Shape turned out pretty bad as the dough expanded too much the sides
-- Crumb was good: good distribution in size and separation
+- Results: Shape turned out pretty bad as the dough expanded too much the sides
+- Results: Crumb was good: good distribution in size and separation
 
 <hr/>
 
